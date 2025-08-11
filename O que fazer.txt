@@ -1,0 +1,18 @@
+Clinica credenciada
+
+*Conversar com SSC (PRODEMGE) sobre o que dá pra fazer
+-Tela de troca de senha no primeiro acesso
+-Formulário com os dados necessários para o cadastro no Agenda Minas
+-Tela de cadastro dos médicos
+-Botão de remarcar atendimento ou cancelar com justificativa
+-
+
+
+
+
+Perfil Médico
+
+- Botão atender paciente
+- Formulário de atendimento
+- Exibir todos os pacientes, mas não possibilitar atender pacientes que não são seus
+- Formulário de atendimento, com possibilidade de upload de documentos
