@@ -2,9 +2,10 @@ Clinica credenciada
 
 *Conversar com SSC (PRODEMGE) sobre o que dá pra fazer
 -Tela de troca de senha no primeiro acesso
+-cancelar formulario inicial
 -Formulário com os dados necessários para o cadastro no Agenda Minas
 -Tela de cadastro dos médicos
--Botão de remarcar atendimento ou cancelar com justificativa
+-Botão de cancelamento do agendamento
 -
 
 
